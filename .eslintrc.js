@@ -1,6 +1,6 @@
 module.exports = {
     "env": {
-        "node": true,
+        "node": false,
         "commonjs": true,
         "es2021": true
     },
